@@ -54,6 +54,7 @@ body {
   height: 45px;
   border-radius: 4px;
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .nav_btn2:hover {
