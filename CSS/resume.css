@@ -81,7 +81,7 @@ body {
   cursor: pointer;
 }
 
-.nav_btn:hover {
+.nav_btn2:hover {
   background-color: #1b66c9;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
