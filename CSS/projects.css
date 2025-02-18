@@ -135,7 +135,7 @@ hr {
 }
 .projects_right img {
   width: 150px;
-  height: 150px;
+  /* height: 150px; */
 }
 
 .projects {
@@ -161,6 +161,8 @@ hr {
 
 .projects_left p {
   color: #505050;
+  padding-right: 10px;
+
 }
 
 .projects_p {
